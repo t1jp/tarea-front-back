@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\paiz2\\Desktop\\Clases UMG\\2021\\Semestre 2\\Antigua\\Desarrollo Web\\Semana 8\\api_rest\\async\\web_api_dbempresa\\web_api_dbempresa.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\paiz2\\Desktop\\Clases UMG\\2021\\Semestre 2\\Antigua\\Desarrollo Web\\Semana 8\\api_rest\\async\\web_api_dbempresa\\web_api_dbempresa.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paiz2\\Desktop\\Clases UMG\\2021\\Semestre 2\\Antigua\\Desarrollo Web\\Semana 8\\api_rest\\async\\web_api_dbempresa\\web_api_dbempresa.csproj",
+        "projectName": "web_api_dbempresa",
+        "projectPath": "C:\\Users\\paiz2\\Desktop\\Clases UMG\\2021\\Semestre 2\\Antigua\\Desarrollo Web\\Semana 8\\api_rest\\async\\web_api_dbempresa\\web_api_dbempresa.csproj",
+        "packagesPath": "C:\\Users\\paiz2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paiz2\\Desktop\\Clases UMG\\2021\\Semestre 2\\Antigua\\Desarrollo Web\\Semana 8\\api_rest\\async\\web_api_dbempresa\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paiz2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
